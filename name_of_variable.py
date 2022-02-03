@@ -16,5 +16,5 @@ day_off = "Sunday"
 side_of_tringle1 = float(20)
 perimetr = side_of_tringle1 + side_of_tringle1 + gipot
 statement = True
-month4 = "April"
+month_4 = "April"
 step_1 = "left"
